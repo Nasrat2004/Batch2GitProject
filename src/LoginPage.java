@@ -6,6 +6,18 @@ public class LoginPage {
 		
 		
 		System.out.println("this is login page code");
+		System.out.println("this is bug fixing code");
+		
+
+		
+		System.out.println("this is login page code");
+		System.out.println("this is bug fixing code");
+		
+
+		
+		System.out.println("this is login page code");
+		System.out.println("this is bug fixing code");
+		
 		
 		
 
